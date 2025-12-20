@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Davis Arvaputra Dwiansyah</h1>
+<h1 align="center">Hi , I'm Davis Arvaputra Dwiansyah</h1>
 <h3 align="center">Focused on Cybersecurity, while actively exploring Full-Stack and Mobile Development</h3>
 
 <p align="center">
@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student  
+- 🎓 Software Engineering student at Telkom University Purwokerto
 - 🔐 Strong interest in **Cybersecurity**
 - 🌐 Exploring **Full-Stack**, **Mobile**, **Web3**, and **Machine Learning**
-- 📚 Learning step by step, aware of the gap with industry — and working on it
+- 📚 Learning step by step, aware of the gap with industry and working on it
 
 ---
 
