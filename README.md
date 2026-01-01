@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Davis Arvaputra Dwiansyah</h1>
-<h3 align="center">Focused on Cybersecurity, while actively exploring Full-Stack and Mobile Development</h3>
+<h3 align="center">Enthusiast on Cybersecurity, while actively exploring Full-Stack and Mobile Development</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="davizofficial" />
@@ -8,10 +8,10 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Software Engineering student at Telkom University Purwokerto
-- 🔐 Strong interest in **Cybersecurity**
-- 🌐 Exploring **Full-Stack**, **Mobile**, **Web3**, and **Machine Learning**
-- 📚 Learning step by step, aware of the gap with industry and working on it
+-  Software Engineering student at Telkom University Purwokerto
+-  Strong interest in **Cybersecurity**
+-  Exploring **Full-Stack**, **Mobile**, **Web3**, and **Machine Learning**
+-  Learning step by step, aware of the gap with industry and working on it
 
 ---
 
@@ -22,14 +22,14 @@
 
 ---
 
-### 📌 Projects
-👉 All projects:  
+###  Projects
+ All projects can check here:  
 🔗 https://github.com/davizofficial?tab=repositories
 
 ---
 
 ### ✍️ Writing
-📝 Medium:  
+ Medium:  
 🔗 https://medium.com/@davizarvaputra
 
 ---
