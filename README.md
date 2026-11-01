@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=davizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="davizofficial" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davizofficial/ascii-profile-card/refs/heads/main/assets/profile.svg" alt="ASCII Profile Card" width="100%" />
+</p>
 
 ---
 
