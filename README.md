@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Davis Arvaputra Dwiansyah</h1>
-<h3 align="center">Enthusiast on Cybersecurity, while actively exploring Full-Stack and Mobile Development</h3>
+<h3 align="center">and i was trapped.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=davizofficial&label=Profile%20views&color=0e75b6&style=flat" alt="davizofficial" />
@@ -9,39 +9,13 @@
   <img src="https://raw.githubusercontent.com/davizofficial/ascii-profile-card/refs/heads/main/assets/profile.svg" alt="ASCII Profile Card" width="100%" />
 </p>
 
----
-
-
-
-### 👨‍💻 About Me
--  Software Engineering student at Telkom University Purwokerto
--  Strong interest in **Cybersecurity**
--  Exploring **Full-Stack**, **Mobile**, **Web3**, and **Machine Learning**
--  Learning step by step, aware of the gap with industry and working on it
-
----
-
-### 🚀 What I'm Doing
-- Building small tools & side projects  
-- Learning security fundamentals & system concepts  
-- Documenting my learning through writing  
 
 ---
 
 ###  Projects
  All projects can check here:  
-🔗 https://github.com/davizofficial?tab=repositories
+ https://github.com/davizofficial?tab=repositories
 
----
-
-### ✍️ Writing
- Medium:  
-🔗 https://medium.com/@davizarvaputra
-
----
-
-### 📫 Contact
-📧 Email: **davizarvaputra@gmail.com**
 
 ---
 
@@ -60,7 +34,6 @@
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/></a>
   <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
@@ -68,10 +41,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davizofficial&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davizofficial&layout=compact&theme=tokyonight" />
-</p>
